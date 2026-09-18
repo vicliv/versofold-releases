@@ -4,7 +4,7 @@ Official compiled installers and update files for [VersoFold](https://versofold.
 
 ## Latest release
 
-[VersoFold 0.1.0 for Apple silicon Macs](https://github.com/vicliv/versofold-releases/releases/tag/v0.1.0) requires macOS 13 or later. Download the signed and Apple-notarized DMG from the release page, then drag VersoFold to Applications. The [website download page](https://versofold.com/download) includes installation instructions and the installer checksum.
+[VersoFold 0.1.1 for Apple silicon and Intel Macs](https://github.com/vicliv/versofold-releases/releases/tag/v0.1.1) requires macOS 13 or later. Choose the signed and Apple-notarized DMG for your Mac on the [website download page](https://versofold.com/download). Checksums are in the release notes.
 
 The ZIP, blockmaps, and `latest-mac.yml` on the release are used for in-app updates. Keep all of these files together on each published release.
 
