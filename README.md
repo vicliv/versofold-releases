@@ -4,7 +4,7 @@ Official compiled installers and update files for [VersoFold](https://versofold.
 
 ## Latest release
 
-[VersoFold 0.4.0](https://github.com/vicliv/versofold-releases/releases/tag/v0.4.0) is available for Apple silicon and Intel Macs (macOS 13 or later) and for Linux x64. Choose the signed and Apple-notarized DMG for your Mac, or the `.deb` or AppImage for Linux, on the [website download page](https://versofold.com/download). Checksums are in the release notes.
+[VersoFold 0.4.1](https://github.com/vicliv/versofold-releases/releases/tag/v0.4.1) is available for Apple silicon and Intel Macs (macOS 13 or later) and for Linux x64. Choose the signed and Apple-notarized DMG for your Mac, or the `.deb` or AppImage for Linux, on the [website download page](https://versofold.com/download). Checksums are in the release notes.
 
 The ZIP, blockmaps, and `latest-mac.yml` on the release are used for in-app updates. Keep all of these files together on each published release.
 
